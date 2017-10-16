@@ -642,7 +642,7 @@
 <lootgroup name="toiletLoot" count="1">
 	<item group="weaponsPistol+ammo" count="1" prob="0.05"/>
 	<item name="bottledRiverWater" count="1,2" prob="0.55"/>
-	<item name="turd" count="1,2" prob="0.3"/>
+	<!-- <item name="turd" count="1,2" prob="0.3"/> LZC -->
 </lootgroup>
 
 <lootgroup name="weaponsAnyShotguns">
@@ -1957,7 +1957,7 @@
 	<item name="denimPants" prob="1"/>
 	<item name="cowboyBootsBrown" prob="1"/>
 	<item name="cowboyBootsBlack" prob="1"/>
-	<item name="cigar" prob="1"/>
+	<!-- <item name="cigar" prob="1"/> LZC -->
 	<item group="rareOres" prob="1"/>
 	<item name="grainAlcohol" count="1,3" prob="0.7"/>
 	<item group="cannedfood" count="1,2" prob="1"/>

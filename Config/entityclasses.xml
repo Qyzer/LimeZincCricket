@@ -1197,8 +1197,46 @@
 	<property name="LootListOnDeath" value="84"/>
 	<drop event="Harvest" name="rottingFlesh" tool_category="Butcher" count="0"/>
 </entity_class>
+<entity_class name="zombieStripperW1" extends="zombieStripper">
+	<property name="WalkType" value="1"/>
+</entity_class>
+<entity_class name="zombieStripperW2" extends="zombieStripper">
+	<property name="WalkType" value="2"/>
+</entity_class>
+<entity_class name="zombieStripperW3" extends="zombieStripper">
+	<property name="WalkType" value="3"/>
+</entity_class>
+<entity_class name="zombieStripperW4" extends="zombieStripper">
+	<property name="WalkType" value="4"/>
+</entity_class>
+<entity_class name="zombieStripperW5" extends="zombieStripper">
+	<property name="WalkType" value="5"/>
+</entity_class>
+<entity_class name="zombieStripperW6" extends="zombieStripper">
+	<property name="WalkType" value="6"/>
+</entity_class>
+<entity_class name="zombieStripperW7" extends="zombieStripper">
+	<property name="WalkType" value="7"/>
+</entity_class>
+<entity_class name="zombieStripperW8" extends="zombieStripper">
+	<property name="WalkType" value="8"/>
+</entity_class>
+<entity_class name="zombieStripperW9" extends="zombieStripper">
+	<property name="WalkType" value="9"/>
+</entity_class>
 
-<!-- Missing: zombieStripperRadiated -->
+
+<!-- Missing: zombieStripperRadiated --> <!--LZC  not anymore -->
+
+<entity_class name="zombieStripperRadiated" extends="zombieDarlene">
+	<property name="Mesh" value="Zombies/zombieStandardStripperRagdoll"/>
+	<property name="HandItem" value="handZombieStripper"/>
+	<property name="MaxHealth" value="250"/>
+	<property name="ExperienceGain" value="1039"/>
+	<property name="ParticleOnSpawn" value="ParticleEffects/RadiatedParticlesOnMesh" param1="SetShapeToMesh0"/>
+	<property name="LootListOnDeath" value="84"/>
+	<drop event="Harvest" name="rottingFlesh" tool_category="Butcher" count="0"/>
+</entity_class>
 
 <entity_class name="zombieStripperFeral" extends="zombieStripper">
 	<property name="Mesh" value="Zombies/zombieStandardStripperRagdoll"/>

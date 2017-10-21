@@ -1,0 +1,4554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipes>
+  <recipe name="air">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stone">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="grass">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="dirt">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plainsGround">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="radiated">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="potassiumNitrate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="ironOre">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="sand">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="snow">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="clay">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="leadOre">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="bedrock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="sandStone">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="desertGround">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="asphalt">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="gravel">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="ice">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="fertileDirt">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="fertileGrass">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="gore">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="fertileFarmland">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="silverOre">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="burntForestGround">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="forestGround">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="destroyedStone">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="coalOre">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="terrainFiller">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="goldOre">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="sod">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="hardSod">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodDebris">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="oilDeposit">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="diamondOre">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="fertilizedFarmland">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="grassFromDirt">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plainsGroundFromDirt">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plainsGroundWGrass1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plainsGroundWGrass2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="burntForestGroundFromDirt">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="burntForestGroundWGrass1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="burntForestGroundWGrass2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="forestGroundFromDirt">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="forestGroundWGrass1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="forestGroundWGrass2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="clayInSandstone">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="lootStoneHelper">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteTerrain">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="imposterCTREighth">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="imposterPyramid">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="imposterQuarter">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="imposterPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="imposterHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="imposterRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="imposterCTRPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="imposterSheet">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="streetLightImposter">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="imposterBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="imposterDontBlockBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="imposterDontBlockHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="imposterDontBlockQuarter">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="imposterDontBlockSheet">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="imposterDontBlockCTRPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="imposterCNRFull">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="imposterDontBlockCTRQuarter">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="gravelPlusIron">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="gravelPlusLead">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="gravelPlusPotassium">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="gravelPlusCoal">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="corrugatedMetalMaster">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="awningMaster">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="glassBulletproofMaster">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeGrassMaster">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cropsGrowingMaster">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cropsHarvestableMaster">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelMaster">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronNoUpgradeMaster">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cobblestoneMaster">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodWeakNoUpgradeMaster">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodNoUpgradeMaster">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeMaster">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeMasterGrowing">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="corrugatedMetalNoUpgradeMaster">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagstoneMaster">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteNoUpgradeMaster">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelMaster">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcreteMaster">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcreteMaster">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcreteMaster">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="brickNoUpgradeMaster">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="brickMaster">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteMaster">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronMaster">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rebarFrameMaster">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stoneNoUpgradeMaster">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronMaster">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronFrameMaster">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodMetalMaster">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodMaster">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodMaster">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodFrameMaster">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodFrameWedge">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidWoodFrameWedge">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodWedge">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodWedge">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodMetalWedge">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronFrameWedge">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidScrapIronFrameWedge">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronWedge">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronWedge">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcreteWedge">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcreteCNRRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcreteCNRFull">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcreteCNRRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelWedge">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodMetalPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcretePlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelCNRRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcreteEighth">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcreteEighth">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodSupport">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodSupport">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodMetalSupport">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronSupport">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronSupport">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcreteSupport">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelEighth">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcreteHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcreteHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelSupport">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcretePole">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcretePyramid">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcretePyramid">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelPyramid">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodPillar100">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronPillar100">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronPillar100">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcreteQuarter">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rebarFramePillar100">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcreteQuarter">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcretePillar100">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelPillar100">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelQuarter">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcreteStairs25">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcreteStairs25">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcreteWedge">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rebarFrameBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcreteArrowSlitHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcreteBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcreteBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcreteWedgeTip">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcreteWedgeTip">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelWedgeTip">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="brickRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcretePlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="brickBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronFrameBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidScrapIronFrameBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronFrameCNRInside">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronCNRInside">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidScrapIronFrameCNRInside">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronCNRInside">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronFrameCNRFull">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronCNRFull">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodFrameRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodMetalRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodFrameCNRInside">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidWoodFrameCNRInside">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodCNRInside">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodCNRInside">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodMetalCNRInside">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodFrameCNRFull">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodCNRFull">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidWoodFrameCNRFull">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodCNRFull">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodMetalCNRFull">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidScrapIronFrameCNRFull">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronCNRFull">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodStairs25">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronStairs25">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronStairs25">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronFrameRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidScrapIronFrameRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rebarFrameRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcreteSupport">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcreteBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcreteRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcreteRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcreteCNRFull">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteSupport">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcretePillar100">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcreteCTRPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcreteCNRInside">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcretePillar50">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelCNRFull">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedBlueberry1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedBlueberry3Harvest">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedPotato1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedPotato2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedPotato3Harvest">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedBlueberry2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="lootWastelandHelper">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="lootDesertHelper">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="lootBurntForestHelper">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="lootPlainsHelper">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="animalGore">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="lootConstructionSuppliesHelper">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcreteCNRFull">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcreteCNRInside">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcreteCNRRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteCNRInside">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodStairs25">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntGarageStorage">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcreteCNRRound">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeSnowyGrassDiagonal">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="painting01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntLootCrateBookstore">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntLootCrateCarParts">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="glassShowerBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcreteCNRRoundTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcretePillar50">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodDestroyed05">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodDestroyed06">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodDestroyed07">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntMedicineCabinet">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="securityGateCTRPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="securityGatePlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodPyramid">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="camoNetBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="camoNetRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="camoNetCNRFull">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodMetalBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodFrameBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelPillar50">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rock01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rock02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rock03">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rock04">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rock05">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rock06">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rock07">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rock08">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rock09">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rock10">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rock11">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rock12">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="campfire">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cookingPot">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntOven">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="oldChair">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="sectionalPlaidCouchSofaMiddle">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="sectionalPlaidCouchSofaCorner">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="sectionalPlaidCouchSofaArm">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="porchLight01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="porchLight04">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="porchLight04Brass">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="ceilingLight01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="ceilingLight02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="ceilingLight02Brass">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="ceilingLight04">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="ceilingLight05">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="ceilingLight05Brass">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="wallLight01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="ceilingLight07">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntMailbox">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pew_segment01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pew_segment02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pew_segment03">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntChest01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntChest02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalRivetSheet">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcreteCTRPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntTrash_can01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntBin">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntNightstand">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntSuitcase">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntStorageChest">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntTrashPile01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntTrashPile02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntTrashPile03">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntTrashPile04">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntTrashPile05">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntTrashPile06">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntTrashPile07">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntTrashPile08">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntTrashPile09">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntFridge">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntGasPump">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="wallTorch">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="graveStone01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="graveStone02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="graveStone03">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="graveStone04">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="graveStone05">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="graveStone06">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="graveStone07">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="graveStone08">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="boardedWindowsSheet4">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="arrowHelper">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="crossHelper">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="poleTop01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="streetLight01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="airConditioner">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntDeskSafe">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntWallSafe">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcreteCTRpole">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntMailBox01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntMailBox02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntMailBox03">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treasureChest">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="oilBarrel">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cinderBlocks01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidWoodFrameBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="brickCNRFull">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concretePillar100">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concretePillar50">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="decals1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidWoodFrameRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="tnt">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="brickCNRInside">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcreteEighth">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronSheet">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalTrussingBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcreteHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcretePillar100">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcretePillar50">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="ladderMetal">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="brickCNRRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcretePlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcretePole">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcretePyramid">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcreteQuarter">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="glassIndustrialCTRPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="corrugatedMetalSheet">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="brickPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="lootMPHelper">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="camoNetSheet">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcreteRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcreteStairs25">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalTrussingSheet">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcreteSupport">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcreteWedge">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="corrugatedMetalCTRPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcreteWedgeTip">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="keystoneBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="trapSpikesNew">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="trapSpikesDamage1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="trapSpikesDamage2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="trapSpikesDamage3">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="trapSpikesDamage4">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="trapSpikesDamage5">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="corrugatedMetalCNRFull">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cinderBlocks02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapMetalPile">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodLogSpike1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="corrugatedMetalCNRInside">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodFrameWedgeIncline">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="corrugatedMetalWedgeTip">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="chemistryStation">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntBackpack01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntBackpack02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntBackpack03">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntDuffle01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntSportsBag01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntSportsBag02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntPurse01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="barbedFence">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="mineCandyTin">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="mineHubcap">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="mineAirFilter">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntToilet01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntToilet02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntToilet03">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pipeGreen">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pipeGreen3Way">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pipeGreen3WayVertical">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pipeGreen3WayVertical2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pipeGreenCap">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pipeGreenCurve">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pipeGreenCurveVertical">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pipeGreenFlange">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pipeGreenFlangeVertical">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pipeGreenValve">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pipeGreenValveVertical">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pipeGreenVertical">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pipeRed">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pipeRed3Way">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pipeRed3WayVertical">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pipeRed3WayVertical2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pipeRedCap">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pipeRedCurve">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pipeRedCurveVertical">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pipeRedFlange">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pipeRedFlangeVertical">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pipeRedValve">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pipeRedValveVertical">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pipeRedVertical">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pipeGreenCurveVertical2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pipeRedCurveVertical2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="bed01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="bed01Frame">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="mattress">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="mattressFlat">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="shapedChargeBlockTest">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="driftwood">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="driftwood2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadArrowheadApache">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadAZ260eastSpeed65">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadAZ260west">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadAZ260westSpeed65">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadAZ73north">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadAZ73northSpeed65">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadAZ73south">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadAZ73southSpeed65">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signCamping">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signCampFish">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadDestinationsEast">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadDestinationsWest">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signInfoCenter">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signNoHazardousWaste">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadWork">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadRoughSurface">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signSchoolZone">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadSlow">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadSpeed25">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadSpeed25noTrucks">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadSpeed35">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadSpeed45">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadSpeed55">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadSpeed65">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadStop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadStop4way">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadApacheAZ260">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadBellLake">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadCoronado">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadCoronadoCourtland">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadCourtlandApache">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadCourtlandAZ260">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadCourtlandBell">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadCourtlandHuenink">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadCourtlandMaple">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadCourtlandTran">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadDavis">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadEssig">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadLangTran">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadPrivate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadTran">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadCourtlandAZ260Duplicate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signNationalPark">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signSpillwayLake">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signAnselAdamsRiver">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signRoadMaple">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rebarDestroyed">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="chair01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntDesk01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntDesk02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="officeChair01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="storeShelving01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="storeShelving01Double">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="storeShelving01Top">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="storeShelving01TopDouble">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="mineCookingPot">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedHop1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedHop2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedHop3Harvest">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedMushroom1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedMushroom2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="mushroom3Harvest">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedYucca1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedYucca2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="jailDoor">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="corrugatedMetalWedgeIncline">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteCNRRound">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cinderBlocks03">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="glassBulletproofBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="glassBulletproofPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="glassBulletproofCTRPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntBirdnest">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteCNRRoundTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcreteCNRRound">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcreteCNRRoundTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcreteCNRRound">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="endTable">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="endTableLamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="sectionalLeatherCouchSofaArm">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="sectionalLeatherCouchSofaCorner">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="sectionalLeatherCouchSofaMiddle">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="tv">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="tv_fallen">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="tv_large_1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="tv_large_2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="forge">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntMunitionsBox">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="ironBarsCentered">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeJuniper6m">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeMountainPine8m">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeMountainPine13m">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeMountainPine16m">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeMountainPine19m">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeMountainPine20m">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeMountainPineDry">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeBirch10m">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeBirch12m">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeBirch15m">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeDeadShrub">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeMaple6m">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeMaple13m">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcreteCNRRoundTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeMaple15m">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeMaple16m">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeMaple17m">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelCNRRound">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeBurntPine01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeBurntPine02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeBurntPine03">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelCNRRoundTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeDeadTree01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeDeadTree02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeWinterEverGreen">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeWinterPine01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntTreeStump">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeWinterPine02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeWinterPine03">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeDesertShrub">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntBackpackDropped">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="looseBoardsTrapBlock1x1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodWedgeCNRInsideBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodWedgeCNRInsideTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagstonePlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagstoneCNRFull">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagstoneCNRInside">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagstoneWedge">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagstoneCTRpole">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="corrugatedMetalPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="glassBulletproofPlateCurved">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="glassBulletproofRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="looseBoardsTrapPlate1x1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="looseBoardsTrapBlock3x3">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="trapGlassBusinessCTRSheet1x1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="trapGlassBusinessSheet1x1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="brickHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="burntWoodBlock1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="burntWoodBlock2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="burntWoodBlock3">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="burntWoodBlock4">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="burntWoodBlock5">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="burntWoodBlock6">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="burntWoodRamp7">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="faucet02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="faucet04">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="faucetBrass02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="faucetBrass04">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntFileCabinet">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntCooler">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="schoolDesk">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntLockers">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="fountain">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntGunSafe">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntGraniteSink">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rockResource">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="secureDoorWooden">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidWoodFrameWedgeIncline">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodWedgeIncline">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodMetalWedgeIncline">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronFrameWedgeIncline">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidScrapIronFrameWedgeIncline">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronWedgeIncline">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntSecureStorageChest">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rockResource02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelWedge">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="secureReinforcedDoorWooden">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalReinforcedDoorWooden">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rockResourceBroke1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rockResourceBroke2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rockResource02Broke1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rockResource02Broke2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rockResource02Broke3">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodArrowSlitHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelWedgeTip">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelQuarter">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelEighth">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="window02Frame">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="window02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntVendingMachine">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntVendingMachine2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagstonePole">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodFrameWedgeStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagstonePillar100">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagstonePillar50">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronWedgeIncline">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="glassCTRSheet">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeCactus01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeCactus02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeCactus03">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeCactus04">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeCactus05">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeCactus06">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treePlantedMountainPine1m">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treePlantedMountainPine6m">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treePlantedMountainPine8m">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treePlantedMountainPine13m">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treePlantedMountainPine16m">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treePlantedMountainPine19m">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treePlantedMaple1m">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treePlantedMaple6m">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treePlantedMaple13m">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treePlantedMaple15m">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treePlantedMaple17m">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcreteWedgeIncline">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteWedgeIncline">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcreteWedgeIncline">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcreteWedgeIncline">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelWedgeIncline">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidWoodFrameWedgeStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodWedgeStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="lootToolsAndForgeHelper">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="lootStoreCratesHelper">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="lootWorkstationsHelper">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntCollapsedForge">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntCollapsedWorkbench">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntCollapsedCementMixer">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntCollapsedChemistryStation">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="lootWorkstationsBustedHelper">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="GoreBlock1Prefab">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="GoreBlock1BonesPrefab">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodLogSpike2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodMetalLogSpike3">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodPillar100">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodMetalPillar100">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelWedgeIncline">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodWedgeStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="brickWedgeIncline">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodFrameWedgeTipCNRFullTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidWoodFrameWedgeTipCNRFullTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodWedgeTipCNRFullTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedCotton1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedCotton3Harvest">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="lootForgeBustedHelper">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="lootWorkbenchBustedHelper">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="lootCementMixerBustedHelper">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntShippingCrateHero">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntLootCrateHero">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteCTRPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodMetalWedgeTipCNRFullTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronFrameWedgeTipCNRFullTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="railingBlackSheet">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidScrapIronFrameWedgeTipCNRFullTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntBookStoreBookcase">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronWedgeTipCNRFullTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronWedgeTipCNRFullTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcreteWedgeTipCNRFullTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteWedgeTipCNRFullTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcreteWedgeTipCNRFullTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcreteWedgeTipCNRFullTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treePlantedMaple17mPlus">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelWedgeTipCNRFullTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelWedgeTipCNRFullTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodMetalWedgeStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntBookcase">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="brickWedgeTipCNRFullTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagstoneWedgeTipCNRFullTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cobblestoneWedgeTipCNRFullTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagstoneWedgeStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagstoneWedgeTipStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodFrameWedgeTipStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidWoodFrameWedgeTipStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodWedgeTipStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodWedgeTipStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodMetalWedgeTipStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronFrameWedgeTipStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalReinforcedWoodDrawBridge">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cobblestoneWedge">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cobblestoneWedgeTip">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cobblestonePlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cobblestoneCNRFull">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cobblestoneCNRInside">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cobblestonePillar100">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cobblestonePillar50">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cobblestonePole">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedCoffee1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedCoffee2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedCoffee3Harvest">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedGoldenrod1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedGoldenrod2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedGoldenrod3Harvest">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodFrameWedgeTipCNRFullBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelCTRPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeBrownGrassDiagonal">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeTallGrassDiagonal">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelCNRFull">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodLogPillar100">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelCNRRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treePlainsGrassDiagonal">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteEighth">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteQuarter">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelCNRInside">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteCNRRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concretePyramid">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidWoodFrameWedgeTipCNRFullBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelSupport">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteCNRFull">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concretePole">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concretePlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodWedgeTipCNRFullBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cobblestoneBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodMetalWedgeTipCNRFullBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronFrameWedgeTipCNRFullBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="ladderWood">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelPyramid">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelPillar100">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelPillar50">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="iBeamSmall">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="iBeam">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="iBeamCorner">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="iBeamBent">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="iBeamSupport">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="iBeamFoundation">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="iBeamCentered">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="curtain_top1Sheet3">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="iBeamCornerCentered">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="iBeamTCentered">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="iBeamCenteredFoundation">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="iBeam5wayCentered">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="iBeam6wayCentered">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelStairs25">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidScrapIronFrameWedgeTipCNRFullBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronWedgeTipCNRFullBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronWedgeTipCNRFullBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcreteWedgeTipCNRFullBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelPole">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteWedgeTipCNRFullBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcreteWedgeTipCNRFullBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcreteWedgeTipCNRFullBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="corrugatedMetalCNRRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treePlainsTree">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="bridgeAsphaltBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="bridgeMetalRivetBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="bridgeConcreteBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="bridgeWoodBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelWedgeTipCNRFullBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelWedgeTipCNRFullBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="waterMovingBucket">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="waterStaticBucket">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="waterMoving">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="water">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="brickWedgeTipCNRFullBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronFrameWedgeStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagstoneWedgeTipCNRFullBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cobblestoneWedgeTipCNRFullBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodStairs50">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteStairs50">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodFrameWedgeCNRInsideBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cobblestoneStairs25">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntCabinetFiller">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntCabinet">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodQuarter">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntFridgeTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntFridgeBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeForestGrassDiagonal">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidWoodFrameWedgeCNRInsideBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodWedgeCNRInsideBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodMetalWedgeCNRInsideBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronFrameWedgeCNRInsideBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidScrapIronFrameWedgeStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidScrapIronFrameWedgeCNRInsideBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronWedgeCNRInsideBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronWedgeCNRInsideBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcreteWedgeCNRInsideBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="forestFlower">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedYucca3Harvest">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedAloe3Harvest">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedAloe1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedAloe2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="snowberry3Harvest">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteWedgeCNRInsideBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcreteWedgeCNRInsideBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="corrugatedMetalBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="hayBaleBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodArrowSlitHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treePlainsTree2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeGreenBrownGrassDiagonal">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedChrysanthemum1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedChrysanthemum2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeDeadPineLeaf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcreteWedgeCNRInsideBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="lootForestHelper">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="lootHouseHelper">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="lootStreetHelper">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="lootYardHelper">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="lootChemistryStationBustedHelper">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="morticianDrawer">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="furnaceDrawer">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="greenDrawer">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelWedgeCNRInsideBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodMetalArrowSlitHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="lootGarageHelper">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedChrysanthemum3Harvest">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treePlant02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="playerSignWood1x1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="playerSignWood1x3">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="playerSignWood2x5">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="corrugatedMetalRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopTraderJoel2x5Wall">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopTraderJoel1x3Wall">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntCardboardBox">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodFenceSheet">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodFenceFarmSheet">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="whitePicketFenceSheet">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="wroughtIronFenceSheet">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelWedgeCNRInsideBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="tire">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronArrowSlitHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedCorn1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedCorn2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedCorn3Harvest">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedCornDead">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="painting02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronWedgeStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treePlantedGrass">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="brickWedgeCNRInsideBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronArrowSlitHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagstoneWedgeCNRInsideBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cobblestoneWedgeCNRInsideBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="awningCNRFull">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="awningCNRInside">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodFrameWedgeCNRInsideTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidWoodFrameWedgeCNRInsideTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodWedgeCNRInsideTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodMetalWedgeCNRInsideTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="corrugatedMetalPillar100">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronFrameWedgeCNRInsideTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidScrapIronFrameWedgeCNRInsideTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="corrugatedMetalPillar50">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="decals2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="decals3">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodFrameCNRRampFiller">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidWoodFrameCNRRampFiller">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodCNRRampFiller">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodMetalCNRRampFiller">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronFrameCNRRampFiller">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="chaulkboardPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronWedgeCNRInsideTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronWedgeCNRInsideTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcreteWedgeCNRInsideTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="gravelWedge">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteWedgeCNRInsideTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteArrowSlitHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcreteArrowSlitHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcreteWedgeCNRInsideTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcreteWedgeCNRInsideTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcreteArrowSlitHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelWedgeCNRInsideTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelWedgeCNRInsideTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntCabinetOldSink">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntWashingMachine">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntTrashCompactor">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronWedgeStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagstoneBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="ladderSteel">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelArrowSlitHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelArrowSlitHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodPole">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="brickWedgeCNRInsideTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagstoneWedgeCNRInsideTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cobblestoneWedgeCNRInsideTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodFrameStairs25CornerCNR">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidWoodFrameStairs25CornerCNR">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="awningRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodStairs25CornerCNR">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="awningBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodStairs25CornerCNR">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodMetalStairs25CornerCNR">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronFrameStairs25CornerCNR">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidScrapIronFrameStairs25CornerCNR">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagstoneRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidScrapIronFrameCNRRampFiller">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronCNRRampFiller">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronCNRRampFiller">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcreteCNRRampFiller">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcreteCNRRampFiller">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcreteCNRRampFiller">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelCNRRampFiller">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="curtain_bottom1Sheet3">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="awningPyramid">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronStairs25CornerCNR">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="awningGable">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronStairs25CornerCNR">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagstoneArrowSlitHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelCNRRampFiller">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcreteWedgeStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="brickCNRRampFiller">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagstoneCNRRampFiller">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cobblestoneCNRRampFiller">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodFrameArch">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagstoneGable">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcreteStairs25CornerCNR">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cobblestoneRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="commercialBlindsTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="commercialBlindsBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cobblestoneArrowSlitHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntGreenDrawerInsecure">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntGreenDrawerSecure">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntShippingCrateLabEquipment">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntLootCrateLabEquipment">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="corrugatedMetalGable">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteStairs25CornerCNR">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcreteStairs25CornerCNR">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteWedgeStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidWoodFrameArch">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodArch">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodArch">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodWedgeTip">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodMetalArch">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronFrameArch">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidScrapIronFrameArch">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronArch">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteStairs25">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelStairs25CornerCNR">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntCabinetOldBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntCabinetOldTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntWallOven">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntCabinetTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelStairs25CornerCNR">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="railingMetalSheet">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="barbedWireSheet">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cable1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcreteWedgeStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodMetalWedgeTip">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="brickStairs25CornerCNR">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronFrameWedgeTip">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidScrapIronFrameWedgeTip">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagstoneStairs25CornerCNR">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntMorticianDrawer">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntFurnaceDrawer">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntGreenDrawer">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="shutters1Plate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cobblestoneStairs25CornerCNR">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plywoodOsbCTRPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronArch">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcreteArch">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteArch">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcreteArch">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronWedgeTip">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronWedgeTip">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagstoneWedgeIncline">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagstoneCNRRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagstonePyramid">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagstoneArch3m">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagstoneArch3m_tip">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagstoneArch3m_center">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcreteWedgeStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeSnowyDeadBush">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcreteArch">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelArch">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="hubcapNoMine">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="ironBars">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteWedge">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelArch">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelWedgeStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodWedgeIncline">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="brickArch">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcreteCTREighth">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelCTREighth">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteCNRRampFiller">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteWedgeTip">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cobblestoneWedgeIncline">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cobblestoneCNRRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cobblestonePyramid">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodWedgeTip">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelWedgeStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="brickWedgeStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cobblestoneWedgeStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="railingWoodWhiteSheet">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="railingOldWoodSheet">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="railingWroughtIronSheet">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plantedCotton2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="burntWoodWedge7">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="brickStairs25">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="glassBusinessSheet">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="glassBusinessCTRSheet">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="glassBusinessBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="glassBusinessPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="glassBusinessPlateCurved">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidScrapIronFrameWedgeTipStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="commercialDoor1_v1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="commercialDoor1_v2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="commercialDoor1_v3">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="commercialDoor2_v1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="commercialDoor2_v2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="commercialDoor2_v3">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="commercialDoor4_v1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="commercialDoor4_v2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="commercialDoor4_v3">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="houseFrontDoor1_v1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronWedgeTipStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronWedgeTipStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcreteWedgeTipStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="houseFrontDoor1_v2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="houseFrontDoor1_v3">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntShippingCrateShamway">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntLootCrateShamway">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronPoleSupport">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronPoleSupport2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronCross">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="newTextureBlock01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="newTextureBlock02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="newTextureBlock03">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="newTextureBlock04">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="sidingWhiteBurntCTRPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntShippingCrateBookstore">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodBarricadeCTRPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntShippingCrateCarParts">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plainWoodBarricade02CTRPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="window02Broken01CTRPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="window02Broken02CTRPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodCNRRampFiller">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="window02Broken03CTRPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="window03Broke1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="window03Broke2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="window03Broke3">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="window03Broke4">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="window03">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="window03Frame">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="glassIndustrial02CTRPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="glassIndustrial02Broken01CTRPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="glassIndustrial02Broken02CTRPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="miniblindTopSheet">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="miniblindBottomSheet">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="window04Frame">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="window04">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="doorFrameWhite1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="doorFrameWhite2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="doorFrameMetal1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="doorFrameMetal2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="doorFrameWhiteBoarded1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="doorFrameWhiteBoarded2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="doorFrameMetalBoarded1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="doorFrameMetalBoarded2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntShippingCrateConstructionSupplies">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntLootCrateConstructionSupplies">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="houseFrontDoor2_v1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="houseFrontDoor2_v2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="houseFrontDoor2_v3">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopGas">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopGasLit">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopGasWall">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopGasWallLit">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopGasLarge">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopGasLargeLit">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopGasLargeWall">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopGasLargeWallLit">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopGunStore">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopGunStoreLit">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopGunStoreWall">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopGunStoreWallLit">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopGunStoreLarge">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopGunStoreLargeLit">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopGunStoreLargeWall">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopGunStoreLargeWallLit">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntShippingCrateShotgunMessiah">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntLootCrateShotgunMessiah">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagstoneHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="ironDoor1_v1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="ironDoor1_v2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="ironDoor1_v3">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodHatch1_v1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodHatch1_v2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodHatch1_v3">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteWedgeTipStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="torchWallHolder">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntStorageGeneric">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntStorageGenericInsecure">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cobblestoneHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcreteWedgeTipStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntPillCase">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntBeerCooler">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="newTextureBlock05">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="newTextureBlock06">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="newTextureBlock07">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="newTextureBlock08">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="newTextureBlock09">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="newTextureBlock10">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="newTextureBlock11">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="newTextureBlock12">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="newTextureBlock13">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodCatwalk">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodCatwalkRailing">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodRailing">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodCatwalkRailingCNR">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodStairsBoardRailing">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodCatwalkWedgeRailing">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodCatwalkWedge">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalCatwalk">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalCatwalkRailing">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalRailing">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalCatwalkRailingCNR">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalStairsBoard">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalStairsBoardRailing">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalCatwalkWedgeRailing">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalCatwalkWedge">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="corrugatedMetalSheetBent1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="corrugatedMetalSheetBent2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="corrugatedMetalSheetBent3">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="corrugatedMetalSheetBent4">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="corrugatedMetalWedge">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronPillar50">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronPillar50">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronCNRRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronCNRRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronCTRPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronCTRPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronCNRRound">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronCNRRound">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronCNRRoundTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronCNRRoundTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="candleWall">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopBookStore">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopBookStoreLit">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopBookStoreWall">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopBookStoreWallLit">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopBookStoreLarge">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopBookStoreLargeLit">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopBookStoreLargeWall">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopBookStoreLargeWallLit">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopPharmacy">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopPharmacyLit">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopPharmacyWall">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopPharmacyWallLit">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopPharmacyLarge">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopPharmacyLargeLit">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopPharmacyLargeWall">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopPharmacyLargeWallLit">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopToolStore">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopToolStoreLit">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopToolStoreWall">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopToolStoreWallLit">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopToolStoreLarge">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopToolStoreLargeLit">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopToolStoreLargeWall">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopToolStoreLargeWallLit">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopColdBeer">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="candleTable">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagstoneArch">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cobblestoneArch">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntShippingCrateWorkingStiffs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntLootCrateWorkingStiffs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodCNRRound">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodCNRRoundTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcreteWedgeTipStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="brickGable">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="corrugatedMetalStairs25">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="corrugatedMetalPole">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodCNRRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cashRegisterEmpty">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntCashRegister">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="shoppingCartEmpty">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntShoppingCart">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="shoppingBasketEmpty">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntShoppingBasket">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredConcreteStairs50">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="wallTorchPlayer">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagstoneStairs25">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="candleWallPlayer">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="candleTablePlayer">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagstoneStairs50">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelWedgeTipStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelWedgeTipStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="brickWedgeTipStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodGable">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopGrocery">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopGroceryLit">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopGroceryWall">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopGroceryWallLit">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopGroceryLarge">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopGroceryLargeLit">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopGroceryLargeWall">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopGroceryLargeWallLit">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cobblestoneWedgeTipStairs">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodFrameHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodCTRPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntMountainManStorageChest">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntApacheArtifactChest">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidWoodFrameHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plainWoodWindowPlug">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="WindowPlug01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="WindowPlug02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="WindowPlug03">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="WindowPlug04">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="mushroom01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="mushroom02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stalactite01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stalactite02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stalactite03">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stalactite04">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cobweb">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="hangingMoss">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stalagmite01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stalagmite02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stalagmite03">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stalagmite04">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="artcube">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodPillar50">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagstoneWedgeTip">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="newTextureBlock14">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="newTextureBlock15">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="newTextureBlock16">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodMetalHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeHauntedTreeWasteland42">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treeAzalea">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="emberPile1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="emberPile2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="emberPile3">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="emberPile4">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronFrameHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronPlateMine">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="window03WoodBroke1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="window03WoodBroke2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="window03WoodBroke3">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="window03WoodBroke4">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="window03Wood">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="window03WoodFrame">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solidScrapIronFrameHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodTable">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronTable">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronHalf">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rustyIronTable">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="chainLink">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelStairs25">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntDeskSafeInsecure">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntWallSafeInsecure">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntGunSafeInsecure">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="garageDoorMetal_v1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="garageDoorMetal_v2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="garageDoorMetal_v3">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronLogSpike4">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronLogSpike5">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="chainLinkFenceBottomPole">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="chainLinkFenceTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="chainLinkFenceTopPole">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="chainLinkPole">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="chainLinkCornerTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="chainLinkCornerBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="chainLinkFenceTopPole2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelLogSpike6">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="spotlightNailedDownPOI">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="vaultDoor01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="vaultDoor02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="vaultDoor03">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="randomCarsHelper">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntCar03SedanDamage0">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntCar03SedanDamage1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntCar03SedanDamage2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapHatch_v1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapHatch_v2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapHatch_v3">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="bed02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntCoffin">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="vaultHatch_v1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="vaultHatch_v2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="vaultHatch_v3">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="waterSource8">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="brickDestroyedBlock01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="brickDestroyedBlock02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="brickDestroyedBlock03">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="shapeTestRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="shapeTestCap">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntDumpster">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="garbage_decor1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="garbage_decor2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="garbage_decor3">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rebarFrameCNRInside">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcreteCNRInside">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelCNRInside">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="controlPanelBase01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="controlPanelBase02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="controlPanelBase03">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="controlPanelBase04">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="controlPanelBase05">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="controlPanelBase06">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="controlPanelTop01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="controlPanelTop02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="controlPanelTop03">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="controlPanelTop04">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="controlPanelTop05">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="controlPanelTop06">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="controlPanelTop07">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="controlPanelCorner">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="ductSoft">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="ductSoftCorner">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="controlPanelBase07">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="controlPanelBase08">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="ductControlPanel">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="ductControlPanelCorner">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="ductSoftCorner2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronWindowPlug05CTRPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronWindowPlug06CTRPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcreteCTRPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelCTRPlate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodPole">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodMetalPole">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronPole">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronPole">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcretePole">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelPole">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="fusebox">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalPipeStraight">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalPipeStraightLong">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalPipeCorner">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalPipeJoint">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalPipeCap">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="industrialLight01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalPipeValve">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalPipeFlange">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="electricalBox01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="conduit01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="conduit01Curve">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="conduit01End">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="leatherCouchSofa">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="leatherChairCouchSofa">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cementMixer">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="bedroll">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="workbench">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treePlantedWinterPine1m">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treePlantedWinterPine6m">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treePlantedWinterPine13m">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treePlantedWinterPine16m">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treePlantedWinterPine19m">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodPoleSupportCtr">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="forestCurb">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="forestCNRCurb">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodPoleSupport">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="sidewalkCurb">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plainsCurb">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodCrossCtr">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodCross">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="plainsCNRCurb">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="wastelandCurb">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="wastelandCNRCurb">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodPoleSupport2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="elevatorTest">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rustyIronPoleSupportCtr">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rustyIronCrossCtr">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="roadRailing">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="roadRailingPole">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="roadRailingEnd">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="roadRailingEnd2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodStairsBoard">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="brickCNRRound">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="awningCNRRound">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntCabinetOldCNRRoundFiller">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="brickCNRRoundTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="awningCNRRoundTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="corrugatedMetalCNRRoundTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="corrugatedMetalCNRRound">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="treePlantedWinterPine19mPlus">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodCTRpole">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodCTRpole">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rWoodMetalCTRpole">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="scrapIronCTRpole">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rScrapIronCTRpole">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="brickCTRpole">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cobblestoneCTRpole">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteCTRpole">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pouredRConcreteCTRpole">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcreteCTRpole">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="steelCTRpole">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelCTRpole">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="autoTurret">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="shotgunTurret">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="burningBarrelPlayer">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="burningBarrel">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelBlock">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelCNRRoundTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="stainlessSteelCNRRound">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalSignLetter_a">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalSignLetter_b">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalSignLetter_c">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalSignLetter_d">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalSignLetter_e">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalSignLetter_f">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalSignLetter_g">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalSignLetter_h">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalSignLetter_i">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalSignLetter_j">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalSignLetter_k">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalSignLetter_l">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalSignLetter_m">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalSignLetter_n">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalSignLetter_o">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalSignLetter_p">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalSignLetter_q">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalSignLetter_r">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalSignLetter_s">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalSignLetter_t">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalSignLetter_u">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalSignLetter_v">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalSignLetter_w">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalSignLetter_x">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalSignLetter_y">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalSignLetter_z">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="conduit01Corner">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="sandbag_1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="sandbag_2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="sandbag_3">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="sandbag_4">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="sandbagCorner">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="sandbagEnd">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="sandbagEnd2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="sandbagCornerDMG1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="sandbagCorner2">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="sandbagCorner2DMG1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="sandbag_5">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="sandbag_5DMG1">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="metalTrussingRamp">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="spawnTrader">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="flagPoleWhiteRiver">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="arrowSlit">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntVendingMachineTrader">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="signShopOpen">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="loudspeaker">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="barStool">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rConcreteStairs25CornerCNR">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodWedgeTipCNRFullBottom">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="archTest">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="woodWedgeTipCNRFullTop">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rampGutterTest">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rampGutterOutsideCornerTest">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="trim01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="opaqueBusinessGlass">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cube3mTest">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cube3x3x1Test">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="arch_3m_windowTEST">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="arch_3m_center_windowTEST">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="arch_3m_window_tipTEST">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="arch_3m_full_TEST">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="electricFence">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteDestroyed01">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteDestroyed02">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteDestroyed03">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteDestroyed04">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="sleeperSit">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="sleeperBack">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="sleeperSideLeft">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="sleeperSideRight">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="sleeperStomach">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteDestroyed05">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteDestroyed06">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="concreteDestroyed07">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="sleeperIdle">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="ironOre">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="potassiumNitrate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="leadOre">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="gravel">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="coalOre">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="oilDeposit">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="gravelPlusIron">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="gravelPlusLead">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="gravelPlusPotassium">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="gravelPlusCoal">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="clay">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="clayInSandstone">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="silverOre">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="goldOre">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="diamondOre">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntCollapsedBatterybank">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="cntCollapsedGeneratorbank">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="generatorbank">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="switch">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="solarbank">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="batterybank">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="electricwirerelay">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pressureplate">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="speaker">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="electrictimerrelay">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="bladeTrap">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="dartTrap">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="rampCornerCutoutTest">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="curve_3x3x1TEST">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="turret_3x3TEST">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="turret_4x4x6TEST">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="pressureplateLong">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="spotlightPlayer">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="industrialLight01_player">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="porchLight01_player">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="ceilingLight01_player">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="ceilingLight02_player">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="wallLight01_player">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="ceilingLight07_player">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="tripwirepost">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="electricfencepost">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="motionsensor">
+    <!-- LGC -->
+  </recipe>
+  <recipe name="glassShowerRamp">
+    <!-- LGC -->
+  </recipe>
+</recipes>

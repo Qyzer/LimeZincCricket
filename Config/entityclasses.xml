@@ -550,8 +550,45 @@
 	<property name="TintMaterial2" value="32,24,20"/>
 	<drop event="Harvest" name="rottingFlesh" tool_category="Butcher" count="0"/>
 </entity_class>
+<!-- LZC -->
+<entity_class name="zombieDarleneW1" extends="zombieDarlene">
+	<property name="WalkType" value="1"/>
+</entity_class>
+<!-- LZC -->
+<entity_class name="zombieDarleneW2" extends="zombieDarlene">
+	<property name="WalkType" value="2"/>
+</entity_class>
+<!-- LZC -->
+<entity_class name="zombieDarleneW4" extends="zombieDarlene">
+	<property name="WalkType" value="4"/>
+</entity_class>
+<!-- LZC -->
+<entity_class name="zombieDarleneW5" extends="zombieDarlene">
+	<property name="WalkType" value="5"/>
+</entity_class>
+<!-- LZC -->
+<entity_class name="zombieDarleneW6" extends="zombieDarlene">
+	<property name="WalkType" value="6"/>
+</entity_class>
+<!-- LZC -->
+<entity_class name="zombieDarleneW7" extends="zombieDarlene">
+	<property name="WalkType" value="7"/>
+</entity_class>
+<!-- LZC -->
+<entity_class name="zombieDarleneW8" extends="zombieDarlene">
+	<property name="WalkType" value="8"/>
+</entity_class>
+<!-- LZC -->
+<entity_class name="zombieDarleneW9" extends="zombieDarlene">
+	<property name="WalkType" value="9"/>
+</entity_class>
 
 <!-- Missing: zombieDarleneRadiated -->
+
+<entity_class name="zombieDarleneRadiated" extends="zombieDarlene">
+	<property name="ParticleOnSpawn" value="ParticleEffects/RadiatedParticlesOnMesh" param1="SetShapeToMesh0"/>
+	<property name="Buffs" value="zombieRadiatedBuff40"/>
+</entity_class>
 
 <entity_class name="zombieDarleneFeral" extends="zombieDarlene">
 	<property name="HandItem" value="handZombieFeral"/>

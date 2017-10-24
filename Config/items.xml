@@ -2222,11 +2222,7 @@ Mesh files no longer used:
 		<property name="Group" value="Ammo/Weapons"/>
 	</item>
 	<!-- In my world an MP5 uses 9x19 Parabellum.
-<item id="151" name="10mmBullet"><property name="Meshfile" value="Items/Weapons/Ranged/Pistol/10mm_bulletPrefab"/><property name="Material" value="brass"/><property name="HoldType" value="21"/><property name="Stacknumber" value="30000"/>
-	<!-- LZC -->
-	<property name="CraftingSkillGroup" value="craftSkillGuns"/>
-	<property name="EconomicValue" value="17"/>
-	<property name="Group" value="Ammo/Weapons"/></item>
+<item id="151" name="10mmBullet"><property name="Meshfile" value="Items/Weapons/Ranged/Pistol/10mm_bulletPrefab"/><property name="Material" value="brass"/><property name="HoldType" value="21"/><property name="Stacknumber" value="30000"/><property name="CraftingSkillGroup" value="craftSkillGuns"/><property name="EconomicValue" value="17"/><property name="Group" value="Ammo/Weapons"/></item>
 -->
 	<item id="152" name="44MagBullet">
 		<property name="Meshfile" value="Items/Weapons/Ranged/Magnums/44_roundPrefab"/>
@@ -2423,30 +2419,7 @@ Mesh files no longer used:
 			<property name="BlockDamage" value="6,11"/>
 			<property name="ApplyBuff" value="1,1" param1="burning"/></property>
 	</item>
-	<!-- <item id="170" name="crossbowBolt"><property name="Meshfile" value="Items/Weapons/Ranged/Bows/Crossbow/crossbowBoltStonePrefab"/><property name="DropMeshfile" value="Items/Misc/crossbow_bolt_dropped_stonePrefab"/><property name="HandMeshfile" value="Items/Misc/crossbow_bolt_hand_stonePrefab"/><property name="HoldType" value="32"/><property name="Material" value="wood"/><property name="Stacknumber" value="30000"/>
-	<!-- LZC -->
-	<property name="FuelValue" value="8"/>
-	<property name="EconomicValue" value="11"/>
-	<property name="EconomicBundleSize" value="5"/>
-	<property class="Action1">
-		<property name="Class" value="Projectile"/>
-		<property name="Buff" value="arrowCriticalBleedout"/>
-		<property name="Buff_chance" value="0.5"/>
-		<property name="Explosion.ParticleIndex" value="0"/>
-		<property name="Velocity" value="75"/>
-		<property name="FlyTime" value="0.25"/>
-		<property name="LifeTime" value="17"/>
-		<property name="DamageBonus.head" value="5"/>
-		<property name="DamageBonus.glass" value="1"/>
-		<property name="DamageBonus.earth" value="0"/>
-		<property name="DamageBonus.metal" value="0"/>
-		<property name="DamageBonus.cloth" value="0"/></property>
-	<property class="Attributes">
-		<property name="GetQualityFromWeapon" value="true"/>
-		<property name="EntityDamage" value="25,45"/>
-		<property name="BlockDamage" value="1,5"/></property>
-	<property name="CraftingSkillGroup" value="craftSkillWeapons"/>
-	<property name="Group" value="Ammo/Weapons"/></item> -->
+	<!-- <item id="170" name="crossbowBolt"><property name="Meshfile" value="Items/Weapons/Ranged/Bows/Crossbow/crossbowBoltStonePrefab"/><property name="DropMeshfile" value="Items/Misc/crossbow_bolt_dropped_stonePrefab"/><property name="HandMeshfile" value="Items/Misc/crossbow_bolt_hand_stonePrefab"/><property name="HoldType" value="32"/><property name="Material" value="wood"/><property name="Stacknumber" value="30000"/><property name="FuelValue" value="8"/><property name="EconomicValue" value="11"/><property name="EconomicBundleSize" value="5"/><property class="Action1"><property name="Class" value="Projectile"/><property name="Buff" value="arrowCriticalBleedout"/><property name="Buff_chance" value="0.5"/><property name="Explosion.ParticleIndex" value="0"/><property name="Velocity" value="75"/><property name="FlyTime" value="0.25"/><property name="LifeTime" value="17"/><property name="DamageBonus.head" value="5"/><property name="DamageBonus.glass" value="1"/><property name="DamageBonus.earth" value="0"/><property name="DamageBonus.metal" value="0"/><property name="DamageBonus.cloth" value="0"/></property><property class="Attributes"><property name="GetQualityFromWeapon" value="true"/><property name="EntityDamage" value="25,45"/><property name="BlockDamage" value="1,5"/></property><property name="CraftingSkillGroup" value="craftSkillWeapons"/><property name="Group" value="Ammo/Weapons"/></item> -->
 	<item id="171" name="ironCrossbowBolt">
 		<property name="Meshfile" value="Items/Weapons/Ranged/Bows/Crossbow/crossbowBoltPrefab"/>
 		<property name="DropMeshfile" value="Items/Misc/crossbow_bolt_droppedPrefab"/>
@@ -7888,11 +7861,7 @@ Mesh files no longer used:
 		<property name="Group" value="Resources"/>
 	</item>
 	<!--
-<item id="1329" name="book"><property name="Meshfile" value="Items/Misc/Book"/><property name="Material" value="paper"/><property name="HoldType" value="21"/><property name="Stacknumber" value="30000"/>
-	<!-- LZC -->
-	<property name="FuelValue" value="20"/>
-	<property name="Weight" value="20"/>
-	<property name="Group" value="Decor/Miscellaneous"/></item>
+<item id="1329" name="book"><property name="Meshfile" value="Items/Misc/Book"/><property name="Material" value="paper"/><property name="HoldType" value="21"/><property name="Stacknumber" value="30000"/><property name="FuelValue" value="20"/><property name="Weight" value="20"/><property name="Group" value="Decor/Miscellaneous"/></item>
 -->
 	<item id="1330" name="militaryFiber">
 		<!-- scrap material -->
@@ -8301,11 +8270,7 @@ Mesh files no longer used:
 		<property name="CraftingIngredientTime" value="15"/>
 		<property name="Group" value="Chemicals"/>
 	</item>
-	<!--<item id="1365" name="bioFuel"><property name="Meshfile" value="Items/Food/honeyPrefab"/><property name="Material" value="glass"/><property name="Weight" value="10"/><property name="HoldType" value="3"/><property name="FuelValue" value="20"/><property name="Stacknumber" value="30000"/>
-	<!-- LZC -->
-	<property name="EconomicValue" value="30"/>
-	<property name="Group" value="Chemicals"/>
-	<property name="CraftingSkillGroup" value="craftSkillScience"/></item>-->
+	<!--<item id="1365" name="bioFuel"><property name="Meshfile" value="Items/Food/honeyPrefab"/><property name="Material" value="glass"/><property name="Weight" value="10"/><property name="HoldType" value="3"/><property name="FuelValue" value="20"/><property name="Stacknumber" value="30000"/><property name="EconomicValue" value="30"/><property name="Group" value="Chemicals"/><property name="CraftingSkillGroup" value="craftSkillScience"/></item>-->
 	<item id="1367" name="canEmpty">
 		<property name="Meshfile" value="Items/Food/can_empty"/>
 		<property name="Material" value="metal"/>
@@ -8735,11 +8700,7 @@ Mesh files no longer used:
 		<property name="Group" value="Resources"/>
 		<property name="CraftingSkillGroup" value="craftSkillTools"/>
 	</item>
-	<!--<item id="1446" name="calipers"><property name="Meshfile" value="Items/Misc/sackPrefab"/><property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/><property name="HoldType" value="45"/><property name="Material" value="Msteel"/><property name="Weight" value="5"/><property name="Stacknumber" value="30000"/>
-	<!-- LZC -->
-	<property name="Group" value="Resources"/>
-	<property name="EconomicValue" value="2000"/>
-	<property name="CraftingSkillGroup" value="craftSkillTools"/></item>-->
+	<!--<item id="1446" name="calipers"><property name="Meshfile" value="Items/Misc/sackPrefab"/><property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/><property name="HoldType" value="45"/><property name="Material" value="Msteel"/><property name="Weight" value="5"/><property name="Stacknumber" value="30000"/><property name="Group" value="Resources"/><property name="EconomicValue" value="2000"/><property name="CraftingSkillGroup" value="craftSkillTools"/></item>-->
 	<item id="1447" name="toolAndDieSet">
 		<property name="Meshfile" value="Items/Misc/sackPrefab"/>
 		<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -8812,7 +8773,6 @@ Mesh files no longer used:
 	</item>
 	<!--
 <item id="1501" name="superWrench"><property name="Extends" value="wrench"/><property name="CustomIcon" value="wrench"/><property name="CustomIconTint" value="ffa0a0"/><Property name="TintColor" value="255,160,160"/><property name="CreativeMode" value="Dev"/><property class="Attributes"><property name="EntityDamage" value="5000,10000"/><property name="BlockDamage" value="5000,10000"/></property></item><item id="1502" name="gunSuperDigger"><property name="CustomIcon" value="gunMP5"/><property name="CustomIconTint" value="ffa0a0"/><Property name="TintColor" value="255,160,160"/><property name="CreativeMode" value="Dev"/><property name="Meshfile" value="Items/Weapons/Ranged/MP5/MP5Prefab"/><property name="Material" value="organic"/><property name="HoldType" value="6"/><property name="Stacknumber" value="30000"/>
-	<!-- LZC -->
 	<property name="DegradationBreaksAfter" value="true"/>
 	<property name="Degradation" value="99999" param1="true"/>
 	<property name="SoundJammed" value="weapon_jam"/>
@@ -8856,7 +8816,6 @@ Mesh files no longer used:
 	<property name="Material" value="organic"/>
 	<property name="HoldType" value="1"/>
 	<property name="Stacknumber" value="30000"/>
-	<!-- LZC -->
 	<property name="DegradationBreaksAfter" value="true"/>
 	<property name="Degradation" value="99999" param1="true"/>
 	<property name="SoundJammed" value="weapon_jam"/>

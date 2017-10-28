@@ -5,6 +5,7 @@
     <property name="TraderArea" value="False"/>
     <property name="ExcludeDistantPOIMesh" value="False"/>
     <property name="Zoning" value="ResidentialOld"/>
+    <property name="RotationToFaceNorth" value="1"/>
     <property name="DistantPOIYOffset" value="0"/>
     <property name="AllowedBiomes" value="burnt_forest,snow,plains,pine_forest,forest,desert,wasteland"/>
     <property name="AllowedTownships" value="rural,town,wilderness"/>

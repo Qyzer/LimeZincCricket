@@ -4,49 +4,7 @@ Added Buff to set Temp to 70
 
 Changed all stacknumbers to 30K
 
+"Zombie Waltz" added in
 
+upgraded to 16.4
 
-<property name="WalkType" value="2"/>
-
-
-ZombieJoe
-TintMaterial2 = hair
-
-zombieMoe
-TintMaterial2 = hair
-
-zombieArlene
-TintMaterial1 = only part of hair
-Not recommended
-
-zombieDarlene
-TintMaterial2 = hair
-
-
-Good
-W1
-W2
-W3
-W4 = crawl
-W5
-W6
-W7
-W8 = Spider
-W9
-
-
-
-
-Tests:
-ParticleEffects/RadiatedParticlesOnMesh
-
-ParticleEffects/p_onFire
-
-ParticleEffects/p_breath
-
-ParticleEffects/p_electric_shock
-
-
-TintMaterial1
-TintMaterial2
-TintMaterial3

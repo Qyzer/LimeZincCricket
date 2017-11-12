@@ -6,7 +6,7 @@
     <property name="RotationToFaceNorth" value="2" />
     <property name="YOffset" value="-1" />
     <property name="AllowedTownships" value="city,town,rural,wilderness" />
-    <property name="AllowedBiomes" value="pine_forest,forest" />
+    <!-- <property name="AllowedBiomes" value="pine_forest,forest" /> -->
     <!-- LZC -->
     <property name="TraderArea" value="False" />
     <!-- <property name="TraderArea" value="True" /> -->

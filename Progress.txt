@@ -1,10 +1,54 @@
-Removed Turds and Cigars from loot
+CraftingQuality levels
+100
+140
+180
+220
+260
+300
+340
+380
+420
+460
+500
+Removed Turds and Cigars from loot and recipes to reduce number of items
+Removed cash and casino coins
+Removed/replaced Traders with Zombies
+Trader only items added to loot
 
 Added Buff to set Temp to 70
 
 Changed all stacknumbers to 30K
+Shock buff removed from vending machines
+Disassemble and destroy events added to vending machines
+removed toilets and couches from construction boxes
+
+Uncommented leather duster recipe
+added Bandit armor to more loots
+
+Add leatherPants as pants and Leggings as armor
+Add leather poncho seperate from Animal HIde
+
 
 "Zombie Waltz" added in
 
 upgraded to 16.4
+
+Skills changed to smooth progressions
+Breath hold buffed
+
+Progression retooled
+Item and block recipes added
+
+
+
+
+ToolCategory.Butcher
+ToolCategory.harvestingTools
+ToolCategory.Hoe
+ToolCategory.Disassemble
+
+
+ToDo:
+Make cloth = bandage
+
 

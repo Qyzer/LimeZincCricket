@@ -1,0 +1,70 @@
+Find way to differentiate armor even more
+
+
+Get rid of individual clothing items as loot, all clothing loot is cloth/leather/whatever
+
+
+
+
+
+One tool of each type, varies by quality not kind
+
+
+Block are harvested to their own block by tool type and skill  (revisit this idea... probably better to stay with fewer skills vs one for each tool)
+
+Perhaps:  Builder (stone/wood/dirt), Scavenger (metal, mechanical, electronic), Survival (stone tools, game, planting)
+
+Stone = Hammer
+Stonemason = perk to give bonus to hammer????
+
+Dirt = Shovel
+Digger
+
+Metal = Pick
+Smith
+
+Wood = Axe
+Woodworker
+
+Mechanical = Wrench
+Mechanic
+
+Electronic = Wire Tool
+Electrician
+
+Game = Knife
+Hunter
+
+Food = Hoe
+Farmer
+
+Fibers used to make cordage
+plastic can be used to make cordage
+
+WHERE IS ALL THE PLASTIC IN THE WORLD???
+
+cordage used instead of fibers
+
+
+FlintKnapping is required for stone tools
+
+
+
+Schematics
+
+All recipes are known for sake of repairing
+But require plans to make
+
+Each one requires a plan to make
+Schematics are made with research papers
+Plans are learned by Schematics
+
+Plans + mats =>  Item
+
+
+
+
+
+
+
+

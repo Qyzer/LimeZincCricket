@@ -3733,7 +3733,7 @@ Mesh files no longer used:
 		<property name="FuelValue" value="75"/>
 		<property name="EconomicValue" value="480"/>
 		<property name="EquipSlot" value="Chest"/>
-		<property name="CustomIcon" value="plantFiberPants"/>
+		<property name="CustomIcon" value="animalHidePoncho"/>
 		<property name="CustomIconTint" value="150,120,90"/>
 		<property class="UMA">
 			<property name="Overlay0Tint" value="150,120,90"/>

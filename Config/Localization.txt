@@ -1305,6 +1305,7 @@ kevlarHelmetDesc,items,Clothes,KgNone,The Kevlar helmet offers the very best dam
 kevlarLegArmor,items,Clothes,KgNone,Kevlar Leg Armor,Jambières en kevlar,Kevlar-Beinschienen,,Greba de Kevlar
 kevlarVest,items,Clothes,KgNone,Kevlar Vest,Gilet en kevlar,Kevlar-Weste,,Chaleco de Kevlar
 leatherBoots,items,Clothes,KgNone,Leather Boots,Bottes en cuir,Lederstiefel,,Botas de cuero
+leatherPoncho,items,Clothes,KgNone,Leather Poncho,,,,
 leatherClothesGroupDesc,items,Clothes,KgNone,Leather clothing provides a great combination of insulation from the weather and protection from other damage types.,Les vêtements en cuir offrent une combinaison idéale entre l'isolation contre les intempéries et la protection contre d'autres sortes de dégâts.,Lederkleidung kombiniert sehr guten Schutz vor den Witterungen und Schutz vor anderen Schadensarten.,,La ropa de cuero ofrece una gran combinación de aislamiento térmico y protección contra otros tipos de daños.
 leatherGloves,items,Clothes,KgNone,Leather Gloves,Gants en cuir,Lederhandschuhe,,Guantes de cuero
 leatherHood,items,Clothes,KgNone,Leather Hood,Capuche en cuir,Lederkapuze,,Capucha de cuero

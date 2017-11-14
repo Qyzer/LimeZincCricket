@@ -1130,8 +1130,9 @@ group desc for stuff like metal siding
 		<property name="CreativeMode" value="None"/>
 		<property class="RepairItems">
 			<property name="forgedIron" value="2"/></property>
-		<drop event="Harvest" name="scrapIron" count="10" prob="1"/>
-		<drop event="Destroy" count="0"/>
+		<property name="Weight" value="25" />
+		<drop event="Harvest" name="scrapIron" count="5" prob="1"/>
+		<drop event="Destroy" name="scrapIron" count="5" />
 		<drop event="Fall" name="scrapMetalPile" count="1" prob="0.6" stick_chance="1"/>
 		<property name="EconomicValue" value="12"/>
 		<property name="DescriptionKey" value="scrapIronGroupDesc"/>
@@ -5182,9 +5183,9 @@ kind of free
 		<!-- -rocket -->
 		<property class="RepairItems">
 			<property name="forgedIron" value="10"/></property>
-		<drop event="Harvest" name="forgedIron" count="5" tool_category="harvestingTools"/>
+		<drop event="Harvest" name="forgedIron" count="3" tool_category="harvestingTools"/>
 		<drop event="Harvest" name="scrapIron" count="15"/>
-		<drop event="Destroy" name="forgedIron" count="2" tool_category="harvestingTools"/>
+		<drop event="Destroy" name="forgedIron" count="1" tool_category="harvestingTools"/>
 		<drop event="Destroy" name="scrapIron" count="15"/>
 		<drop event="Fall" name="scrapMetalPile" count="1" prob="0.9" stick_chance="1"/>
 		<property name="Group" value="Building"/>

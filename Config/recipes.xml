@@ -109,22 +109,22 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 		<ingredient name="aloePlant" count="1"/>
 	</recipe>
 	<recipe name="animalHideBoots" count="1">
-		<ingredient name="animalHide" count="5"/>
+		<ingredient name="leather" count="5"/>
 	</recipe>
 	<recipe name="animalHideGloves" count="1">
-		<ingredient name="animalHide" count="5"/>
+		<ingredient name="leather" count="5"/>
 	</recipe>
 	<recipe name="animalHideHood" count="1">
-		<ingredient name="animalHide" count="5"/>
+		<ingredient name="leather" count="5"/>
 	</recipe>
 	<recipe name="animalHideChestArmor" count="1">
-		<ingredient name="animalHide" count="10"/>
+		<ingredient name="leather" count="10"/>
 	</recipe>
 	<recipe name="animalHideLegArmor" count="1">
-		<ingredient name="animalHide" count="10"/>
+		<ingredient name="leather" count="10"/>
 	</recipe>
 	<recipe name="animalHidePoncho" count="1">
-		<ingredient name="animalHide" count="20"/>
+		<ingredient name="leather" count="20"/>
 	</recipe>
 	<recipe name="antibiotics" count="1" craft_area="chemistryStation">
 		<ingredient name="moldyBread" count="1"/>
@@ -1158,7 +1158,7 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 		<ingredient name="wood" count="4"/>
 	</recipe>
 	<recipe name="leather" count="1">
-		<ingredient name="animalHide" count="1"/>
+		<ingredient name="leather" count="1"/>
 	</recipe>
 	<recipe name="leatherPoncho" count="1">
 		<ingredient name="leather" count="20"/>
@@ -1171,7 +1171,7 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 	</recipe>
 	<recipe name="leatherDusterBlack" count="1">
 		<ingredient name="leather" count="20"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="leatherGloves" count="1">
 		<ingredient name="leather" count="5"/>
@@ -1407,7 +1407,7 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 	</recipe>
 	<recipe name="paintTool" count="1">
 		<ingredient name="wood" count="2"/>
-		<ingredient name="animalHide" count="1"/>
+		<ingredient name="leather" count="1"/>
 	</recipe>
 	<recipe name="paint" count="50" craft_area="chemistryStation">
 		<ingredient name="chrysanthemumPlant" count="1"/>
@@ -2283,7 +2283,7 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 	</recipe>
 	<recipe name="partsPistol_parts" count="1" craft_area="workbench">
 		<ingredient name="forgedIron" count="10"/>
-		<ingredient name="mechanicalParts" count="20"/>
+		<ingredient name="mechanicalParts" count="10"/>
 	</recipe>
 	<recipe name="partsPistol_barrel" count="1" craft_area="workbench">
 		<ingredient name="forgedSteel" count="10"/>
@@ -2322,22 +2322,33 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 		<ingredient name="forgedSteel" count="40"/>
 	</recipe>
 	<recipe name="partsMP5_stock" count="1" craft_area="workbench">
-		<ingredient name="forgedIron" count="20"/>
+		<ingredient name="forgedIron" count="30"/>
 	</recipe>
 	<recipe name="partsMP5_receiver" count="1" craft_area="workbench">
-		<ingredient name="forgedIron" count="40"/>
+		<ingredient name="forgedIron" count="30"/>
+	</recipe>
+	<recipe name="partsMP5_receiver" count="1" craft_area="workbench">
+		<ingredient name="partsPistol_receiver" count="3"/>
 	</recipe>
 	<recipe name="partsMP5_parts" count="1" craft_area="workbench">
-		<ingredient name="forgedIron" count="40"/>
+		<ingredient name="forgedIron" count="30"/>
 		<ingredient name="mechanicalParts" count="20"/>
 	</recipe>
+	<recipe name="partsMP5_parts" count="1" craft_area="workbench">
+		<ingredient name="partsPistol_parts" count="3"/>
+	</recipe>
 	<recipe name="partsMP5_barrel" count="1" craft_area="workbench">
-		<ingredient name="forgedSteel" count="20"/>
+		<ingredient name="forgedSteel" count="30"/>
+		<ingredient name="scrapIron" count="150"/>
+		<!-- for silencer -->
+	</recipe>
+	<recipe name="partsMP5_barrel" count="1" craft_area="workbench">
+		<ingredient name="partsPistol_barrel" count="3"/>
 		<ingredient name="scrapIron" count="150"/>
 		<!-- for silencer -->
 	</recipe>
 	<recipe name="partsAK47_stock" count="1" craft_area="workbench">
-		<ingredient name="forgedIron" count="20"/>
+		<ingredient name="forgedIron" count="30"/>
 		<ingredient name="wood" count="40"/>
 	</recipe>
 	<recipe name="partsAK47_receiver" count="1" craft_area="workbench">
@@ -2559,31 +2570,31 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 	</recipe>
 	<recipe name="leatherHoodBlack" count="1">
 		<ingredient name="leather" count="5"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="cowboyHat" count="1">
 		<ingredient name="leather" count="5"/>
 	</recipe>
 	<recipe name="blackCowboyHat" count="1">
 		<ingredient name="leather" count="5"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="cowboyBootsBrown" count="1">
 		<ingredient name="leather" count="5"/>
 	</recipe>
 	<recipe name="cowboyBootsBlack" count="1">
 		<ingredient name="leather" count="5"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="gothBootsBlack" count="1" craft_area="workbench">
 		<ingredient name="leather" count="5"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 		<ingredient name="scrapIron" count="1"/>
 		<!-- for the buckles -->
 	</recipe>
 	<recipe name="gothicPants" count="1" craft_area="workbench">
 		<ingredient name="leather" count="10"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 		<ingredient name="scrapIron" count="1"/>
 		<!-- for the buckles -->
 	</recipe>
@@ -2632,7 +2643,7 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 		<ingredient name="scrapIron" count="2"/>
 		<ingredient name="scrapPlastics" count="5"/>
 		<ingredient name="glassBusinessPlateCurved" count="1"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="eyeglasses" count="1">
 		<ingredient name="scrapIron" count="2"/>
@@ -2649,112 +2660,112 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 	</recipe>
 	<recipe name="skullCapRed" count="1">
 		<ingredient name="cloth" count="3"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="skullCapBlue" count="1">
 		<ingredient name="cloth" count="3"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="skullCapGreen" count="1">
 		<ingredient name="cloth" count="3"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="skullCapBrown" count="1">
 		<ingredient name="cloth" count="3"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="skullCapBlack" count="1">
 		<ingredient name="cloth" count="3"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="bandanaRed" count="1">
 		<ingredient name="cloth" count="4"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="bandanaBlue" count="1">
 		<ingredient name="cloth" count="4"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="bandanaGreen" count="1">
 		<ingredient name="cloth" count="4"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="bandanaBrown" count="1">
 		<ingredient name="cloth" count="4"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="bandanaBlack" count="1">
 		<ingredient name="cloth" count="4"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="denimPants" count="1">
 		<ingredient name="cloth" count="6"/>
 	</recipe>
 	<recipe name="blackDenimPants" count="1">
 		<ingredient name="cloth" count="6"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="redDenimPants" count="1">
 		<ingredient name="cloth" count="6"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="brownDenimPants" count="1">
 		<ingredient name="cloth" count="6"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="armyPants" count="1">
 		<ingredient name="cloth" count="6"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="tankTopWhite" count="1">
 		<ingredient name="cloth" count="3"/>
 	</recipe>
 	<recipe name="tankTopRed" count="1">
 		<ingredient name="cloth" count="3"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="tankTopPurple" count="1">
 		<ingredient name="cloth" count="3"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="tankTopGreen" count="1">
 		<ingredient name="cloth" count="3"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="tankTopBlue" count="1">
 		<ingredient name="cloth" count="3"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="runningShoes" count="1">
-		<ingredient name="cloth" count="3"/>
-		<ingredient name="paint" count="1"/>
+		<ingredient name="cloth" count="5"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="shirt" count="1">
 		<ingredient name="cloth" count="4"/>
 	</recipe>
 	<recipe name="shirtRed" count="1">
 		<ingredient name="cloth" count="4"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="shirtBrown" count="1">
 		<ingredient name="cloth" count="4"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="shirtGreen" count="1">
 		<ingredient name="cloth" count="4"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="shirtBlue" count="1">
 		<ingredient name="cloth" count="4"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="shirtBlack" count="1">
 		<ingredient name="cloth" count="4"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="armyShirt" count="1">
 		<ingredient name="cloth" count="4"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="facialPiercings" count="1">
 		<ingredient name="forgedSteel" count="1"/>
@@ -2764,122 +2775,122 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 	</recipe>
 	<recipe name="pufferCoatRed" count="1">
 		<ingredient name="cloth" count="8"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="pufferCoatGreen" count="1">
 		<ingredient name="cloth" count="8"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="pufferCoatBrown" count="1">
 		<ingredient name="cloth" count="8"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="pufferCoatBlack" count="1">
 		<ingredient name="cloth" count="8"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="sweatshirt" count="1">
 		<ingredient name="cloth" count="5"/>
 	</recipe>
 	<recipe name="sweatshirtRed" count="1">
 		<ingredient name="cloth" count="5"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="sweatshirtBrown" count="1">
 		<ingredient name="cloth" count="5"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="sweatshirtGreen" count="1">
 		<ingredient name="cloth" count="5"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="sweatshirtBlue" count="1">
 		<ingredient name="cloth" count="5"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="sweatshirtBlack" count="1">
 		<ingredient name="cloth" count="5"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="tshirtWhite" count="1">
 		<ingredient name="cloth" count="4"/>
 	</recipe>
 	<recipe name="tshirtRed" count="1">
 		<ingredient name="cloth" count="4"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="tshirtBrown" count="1">
 		<ingredient name="cloth" count="4"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="tshirtGreen" count="1">
 		<ingredient name="cloth" count="4"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="tshirtBlue" count="1">
 		<ingredient name="cloth" count="4"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="tshirtBlack" count="1">
 		<ingredient name="cloth" count="4"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="skirt" count="1">
 		<ingredient name="cloth" count="4"/>
 	</recipe>
 	<recipe name="skirtRed" count="1">
 		<ingredient name="cloth" count="4"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="skirtBrown" count="1">
 		<ingredient name="cloth" count="4"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="skirtGreen" count="1">
 		<ingredient name="cloth" count="4"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="skirtBlue" count="1">
 		<ingredient name="cloth" count="4"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="skirtBlack" count="1">
 		<ingredient name="cloth" count="4"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="ballCap" count="1">
 		<ingredient name="cloth" count="3"/>
 	</recipe>
 	<recipe name="ballCapRed" count="1">
 		<ingredient name="cloth" count="3"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="ballCapBrown" count="1">
 		<ingredient name="cloth" count="3"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="ballCapGreen" count="1">
 		<ingredient name="cloth" count="3"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="ballCapBlue" count="1">
 		<ingredient name="cloth" count="3"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="ballCapBlack" count="1">
 		<ingredient name="cloth" count="3"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="jacketWhite" count="1">
 		<ingredient name="cloth" count="7"/>
 	</recipe>
 	<recipe name="jacketBlack" count="1">
 		<ingredient name="cloth" count="7"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="jacketLetter" count="1">
 		<ingredient name="cloth" count="7"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 		<ingredient name="leather" count="1"/>
 	</recipe>
 	<recipe name="denimShortsPants" count="1">
@@ -2887,108 +2898,108 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 	</recipe>
 	<recipe name="denimShortsPantsRed" count="1">
 		<ingredient name="cloth" count="4"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="denimShortsPantsBrown" count="1">
 		<ingredient name="cloth" count="4"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="denimShortsPantsGreen" count="1">
 		<ingredient name="cloth" count="4"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="denimShortsPantsBlue" count="1">
 		<ingredient name="cloth" count="4"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="denimShortsPantsBlack" count="1">
 		<ingredient name="cloth" count="4"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="hoodedSweatshirtWhite" count="1">
 		<ingredient name="cloth" count="5"/>
 	</recipe>
 	<recipe name="hoodedSweatshirtRed" count="1">
 		<ingredient name="cloth" count="5"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="hoodedSweatshirtBrown" count="1">
 		<ingredient name="cloth" count="5"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="hoodedSweatshirtGreen" count="1">
 		<ingredient name="cloth" count="5"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="hoodedSweatshirtBlue" count="1">
 		<ingredient name="cloth" count="5"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="hoodedSweatshirtBlack" count="1">
 		<ingredient name="cloth" count="5"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="pressboyCapWhite" count="1">
 		<ingredient name="cloth" count="3"/>
 	</recipe>
 	<recipe name="pressboyCapRed" count="1">
 		<ingredient name="cloth" count="3"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="pressboyCapBrown" count="1">
 		<ingredient name="cloth" count="3"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="pressboyCapGreen" count="1">
 		<ingredient name="cloth" count="3"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="pressboyCapBlue" count="1">
 		<ingredient name="cloth" count="3"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="pressboyCapBlack" count="1">
 		<ingredient name="cloth" count="3"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="tshirtZUWhite" count="1">
 		<ingredient name="cloth" count="4"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="overalls" count="1">
 		<ingredient name="cloth" count="7"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="flannelShirtWhite" count="1">
 		<ingredient name="cloth" count="5"/>
 	</recipe>
 	<recipe name="flannelShirtRed" count="1">
 		<ingredient name="cloth" count="5"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="flannelShirtBrown" count="1">
 		<ingredient name="cloth" count="5"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="flannelShirtGreen" count="1">
 		<ingredient name="cloth" count="5"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="flannelShirtBlue" count="1">
 		<ingredient name="cloth" count="5"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="flannelShirtBlack" count="1">
 		<ingredient name="cloth" count="5"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="suitPantsBlack" count="1">
 		<ingredient name="cloth" count="6"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="suitJacketBlack" count="1">
 		<ingredient name="cloth" count="8"/>
-		<ingredient name="paint" count="1"/>
+		<!-- <ingredient name="paint" count="1"/> -->
 	</recipe>
 	<recipe name="dressShoesBlack" count="1">
 		<ingredient name="leather" count="4"/>

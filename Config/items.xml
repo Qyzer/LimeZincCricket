@@ -3050,8 +3050,10 @@ Mesh files no longer used:
 		<property name="PartType" value="Barrel"/>
 		<property name="Weight" value="35"/>
 		<property class="Attributes">
-			<property name="EntityDamage" value="65,75"/>
-			<property name="BlockDamage" value="8,14"/>
+			<!-- <property name="EntityDamage" value="65,75"/> -->
+			<!-- <property name="BlockDamage" value="8,14"/> -->
+			<property name="EntityDamage" value="100,150"/>
+			<property name="BlockDamage" value="200,400"/>
 			<property name="DegradationMax" value="3500,6250"/></property>
 	</item>
 	<item id="248" name="partsSniperRifle_stock">
@@ -3552,8 +3554,8 @@ Mesh files no longer used:
 		<!-- armorMasterHideArmor -->
 		<property name="Insulation" value="4"/>
 		<property name="Encumbrance" value="0.02"/>
-		<property name="Material" value="animalHide"/>
-		<property name="RepairTools" value="animalHide"/>
+		<property name="Material" value="leather"/>
+		<property name="RepairTools" value="leather"/>
 		<property name="DegradationBreaksAfter" value="false"/>
 		<property name="FuelValue" value="20"/>
 		<property name="EconomicValue" value="120"/>
@@ -3944,6 +3946,9 @@ Mesh files no longer used:
 	<item id="391" name="militaryHelmet">
 		<!-- militaryArmor -->
 		<property name="Extends" value="militaryGloves"/>
+		<property name="Class" value="ItemClassToggle"/>
+		<property name="LightSource" value="Entities/Lighting/miningHelmetLightSource"/>
+		<property name="ActivateObject" value="miningHelmetLightSource(Clone)"/>
 		<property name="EquipSlot" value="Head"/>
 		<property class="UMA">
 			<property name="Mesh" value="gear_kevlar_helmet"/>
@@ -4111,6 +4116,9 @@ Mesh files no longer used:
 	<item id="403" name="heavyBanditGasmask">
 		<!-- banditArmor -->
 		<property name="Extends" value="heavyBanditGloves"/>
+		<property name="Class" value="ItemClassToggle"/>
+		<property name="LightSource" value="Entities/Lighting/miningHelmetLightSource"/>
+		<property name="ActivateObject" value="miningHelmetLightSource(Clone)"/>
 		<property name="EquipSlot" value="Face"/>
 		<property class="UMA">
 			<property name="Mesh" value="armor_heavy_bandit_gasmask"/>
@@ -4374,6 +4382,7 @@ Mesh files no longer used:
 	</item>
 	<item id="465" name="swatHelmet">
 		<property name="Waterproof" value="0.15"/>
+		<property name="Class" value="ItemClassToggle"/>
 		<property name="Meshfile" value="Items/Clothing/Head/swatHelmetPrefab"/>
 		<property name="Material" value="metal"/>
 		<property name="RepairTools" value="forgedIron"/>
@@ -4382,6 +4391,8 @@ Mesh files no longer used:
 		<property name="DegradationBreaksAfter" value="false"/>
 		<property name="Weight" value="120"/>
 		<property name="EconomicValue" value="1000"/>
+		<property name="LightSource" value="Entities/Lighting/miningHelmetLightSource"/>
+		<property name="ActivateObject" value="miningHelmetLightSource(Clone)"/>
 		<property class="Attributes">
 			<!-- ironArmor -->
 			<property name="ConcussiveProtection" value="0.89,0.99"/>
@@ -4444,12 +4455,14 @@ Mesh files no longer used:
 	</item>
 	<item id="469" name="gasMask">
 		<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+		<property name="Class" value="ItemClassToggle"/>
 		<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
 		<property name="Material" value="organic"/>
 		<property name="HoldType" value="45"/>
 		<property name="EquipSlot" value="Head"/>
 		<property name="FuelValue" value="16"/>
 		<property name="EconomicValue" value="1600"/>
+		<property name="LightSource" value="Entities/Lighting/miningHelmetLightSource"/>
 		<property name="Degradation" value="250" param1="true"/>
 		<property class="Attributes">
 			<!-- clothGeneric -->
@@ -4593,8 +4606,8 @@ Mesh files no longer used:
 		<property name="Meshfile" value="Items/Misc/sackPrefab"/>
 		<property name="HoldType" value="45"/>
 		<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
-		<property name="Material" value="animalHide"/>
-		<property name="RepairTools" value="animalHide"/>
+		<property name="Material" value="leather"/>
+		<property name="RepairTools" value="leather"/>
 		<property name="DegradationBreaksAfter" value="false"/>
 		<property name="FuelValue" value="75"/>
 		<property name="EconomicValue" value="480"/>
@@ -6124,13 +6137,36 @@ Mesh files no longer used:
 			<property name="Create_item" value="canEmpty"/></property>
 		<property name="Group" value="Food/Cooking"/>
 	</item>
+	<item id="707" name="canMeat">
+		<property name="Extends" value="canBeef"/>
+		<property name="CustomIcon" value="canHam"/>
+		<property name="Meshfile" value="Items/Food/can_beefPrefab"/>
+	</item>
 	<item id="708" name="canChicken">
 		<property name="Extends" value="canBeef"/>
 		<property name="Meshfile" value="Items/Food/can_ChickenPrefab"/>
 	</item>
 	<item id="709" name="canLamb">
+		<!-- LZC -->
 		<property name="Extends" value="canBeef"/>
 		<property name="Meshfile" value="Items/Food/can_LambPrefab"/>
+	</item>
+	<item id="710" name="canPetfood">
+		<property name="Extends" value="canBeef"/>
+		<property name="EconomicValue" value="20"/>
+		<property name="Meshfile" value="Items/Food/can_dogfoodPrefab"/>
+		<property name="CustomIcon" value="canDogfood"/>
+		<property class="Action1">
+			<property name="Class" value="Eat"/>
+			<property name="Delay" value="2.0"/>
+			<property name="Use_time" value="..."/>
+			<property name="Gain_food" value="5"/>
+			<property name="Buff" value="eatFood_3_Trigger"/>
+			<property name="Gain_water" value="-2"/>
+			<property name="Gain_gas" value="0"/>
+			<property name="Sound_start" value="player_eating"/>
+			<property name="Create_item" value="canEmpty"/></property>
+		<property name="Group" value="Food/Cooking"/>
 	</item>
 	<item id="711" name="canCatfood">
 		<property name="Extends" value="canBeef"/>
@@ -6189,7 +6225,7 @@ Mesh files no longer used:
 		<property class="Action1">
 			<property name="Gain_food" value="5"/>
 			<property name="Buff" value="eatFood_3_Trigger"/>
-			<property name="Gain_water" value="0"/></property>
+			<property name="Gain_water" value="10"/></property>
 	</item>
 	<item id="717" name="canPears">
 		<property name="Extends" value="canMiso"/>
@@ -6202,6 +6238,7 @@ Mesh files no longer used:
 	<item id="718" name="canSoup">
 		<property name="Extends" value="canMiso"/>
 		<property name="Meshfile" value="Items/Food/can_soupPrefab"/>
+		<property name="CustomIcon" value="canMiso"/>
 		<property class="Action1">
 			<property name="Gain_food" value="5"/>
 			<property name="Buff" value="eatFood_3_Trigger"/>
@@ -6953,9 +6990,9 @@ Mesh files no longer used:
 			<property name="Delay" value="2"/>
 			<property name="Use_time" value="..."/>
 			<property name="Gain_health" value="0"/>
-			<property name="Gain_stamina" value="0"/>
-			<property name="Gain_food" value="0"/>
-			<property name="Gain_water" value="0"/>
+			<property name="Gain_stamina" value="10"/>
+			<property name="Gain_food" value="5"/>
+			<property name="Gain_water" value="5"/>
 			<property name="Sound_start" value="player_drinking"/>
 			<property name="Buff" value="DrinkBeer,extinguishFireBuff"/>
 			<property name="Create_item" value="emptyJar"/></property>
@@ -6977,8 +7014,8 @@ Mesh files no longer used:
 			<property name="Gain_health" value="0"/>
 			<property name="Gain_stamina" value="10"/>
 			<property name="Gain_food" value="0"/>
-			<property name="Gain_water" value="-5"/>
-			<property name="Gain_wellness" value="-0.5"/>
+			<property name="Gain_water" value="-2"/>
+			<property name="Gain_wellness" value="-0.2"/>
 			<property name="Sound_start" value="player_drinking"/>
 			<property name="Buff" value="DrinkGrainAlcohol,extinguishFireBuff"/>
 			<property name="Create_item" value="emptyJar"/></property>
@@ -7752,7 +7789,7 @@ Mesh files no longer used:
 	<item id="1312" name="animalHide">
 		<property name="Meshfile" value="Items/Crafting/animal_hidePrefab"/>
 		<property name="HoldType" value="21"/>
-		<property name="Material" value="animalHide"/>
+		<property name="Material" value="leather"/>
 		<property name="RepairAmount" value="80"/>
 		<property name="Weight" value="5"/>
 		<property name="Stacknumber" value="30000"/>

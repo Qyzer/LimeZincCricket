@@ -1424,10 +1424,14 @@ bottledWater,items,Food,KgNone,Bottled Water,Eau en bouteille,Flasche Wasser,,Ag
 bottledWaterDesc,items,Food,KgNone,Fresh bottled water. Well as fresh as you can get in the apocalypse.,"De l'eau fraîche en bouteille. Enfin, aussi fraîche qu'elle puisse l'être en période d'apocalypse.","Eine Flasche mit frischem Wasser. Na ja, so frisch, wie es während der Apokalypse geht.",,"Agua fresca embotellada. Bueno, tan fresca como puede ser en el apocalipsis."
 canBeef,items,Food,KgNone,Large Beef Ration,Grande ration de bœuf,Große Rindfleisch-Ration,,Gran porción de ternera
 canBeefDesc,items,Food,KgNone,It's not from your favorite steakhouse but this can of beef will fill you up. Bon appetit!,"Ça ne provient pas de votre restaurant à viandes préféré, mais ça vous remplira l'estomac. Bon appétit !","Dein Lieblings-Steakhouse ist es nicht, aber diese Dose Rindfleisch wird deinen Bauch füllen. Guten Appetit!",,"No es de tu asador favorito, pero te saciará. ¡Buen provecho!"
+canMeat,items,Food,KgNone,Large Meat Ration,,,,
+canMeatDesc,items,Food,KgNone,It's not from your favorite restaurant but this can of meat will fill you up. Bon appetit!,,,,
 canBoiledWater,items,Food,KgNone,Boiled Water,Eau bouillie,Konserve mit Wasser,,Agua hervida
 canBoiledWaterDesc,items,Food,KgNone,Boiled water is safe to drink. Probably.,L'eau bouillie est potable. Sûrement.,Gekochtes Wasser kann bedenkenlos getrunken werden. Wahrscheinlich.,,El agua hervida es segura. Probablemente.
 canCatfood,items,Food,KgNone,Can of Cat Food,Conserve de pâtée pour chat,Dose Katzenfutter,,Lata de comida para gatos
 canCatfoodDesc,items,Food,KgNone,"A can of Meow Chow is a delicacy. For cats. You are not eating this, are you?","Cette nourriture est un mets délicat. Pour les chats. Vous n'allez pas en manger, n'est-ce pas ?","Eine Dose mit Katzenfutter ist eine Delikatesse. Für Katzen. Du hast nicht vor, das zu essen, oder?",,"Una lata de Whiskas es un deleite. Para gatos. No te la vas a comer, ¿o sí?"
+canPetfood,items,Food,KgNone,Can of Pet Food,,,,
+canPetfoodDesc,items,Food,KgNone,You always wished for the life of a pet. Enjoy!,,,,
 canChicken,items,Food,KgNone,Chicken Ration,Ration de poulet,Hühnchen-Ration,,Porción de pollo
 canChickenDesc,items,Food,KgNone,"Tastes like chicken. Well, really old synthetic chicken with dirt on it.","Ça a un goût de poulet. Enfin, un goût de vieux poulet synthétique plein de terre.","Schmeckt nach Hühnchen. Na ja, wohl eher altes, künstliches Huhn mit etwas Dreck darüber.",,"Sabe a pollo. Bueno, pollo sintético bastante viejo, cubierto de suciedad."
 canChili,items,Food,KgNone,Can of Chili,Conserve de chili,Dose Chili,,Lata de chili
@@ -1450,8 +1454,8 @@ canPeas,items,Food,KgNone,Can of Peas,Conserve de petits pois,Dose Erbsen,,Lata 
 canPeasDesc,items,Food,KgNone,You and your can of peas will be like two peas in a pod and you'll get your daily vegetables.,Vos petits pois deviendront vos petits potes et vous obtiendrez votre dose quotidienne de légumes.,Zähle Erbsen und iss dein tägliches Gemüse. Das sind zwei Fliegen mit einer Klappe.,,"Tú y tu lata de guisantes serán inseparables. Además, obtendrás tu ración diaria de verduras."
 canSalmon,items,Food,KgNone,Can of Salmon,Conserve de saumon,Dose Lachs,,Lata de salmón
 canSalmonDesc,items,Food,KgNone,Enjoy this healthy can of salmon.,Savourez cette bonne conserve de saumon.,Genieß diese gesunde Dose Lachs.,,Disfruta esta deliciosa lata de salmón.
-canSoup,items,Food,KgNone,Chicken Soup,Soupe de poulet,Hühnersuppe,,Sopa de pollo
-canSoupDesc,items,Food,KgNone,Chicken soup can keep the body and the soul together.,La soupe de poulet vous réchauffera l'âme aussi bien que le corps.,Hühnersuppe hält Körper und Geist zusammen.,,La sopa de pollo puede mantener el cuerpo y el alma unidos...
+canSoup,items,Food,KgNone,Can of Soup,Soupe de poulet,Hühnersuppe,,Sopa de pollo
+canSoupDesc,items,Food,KgNone,A can of soup can keep the body and the soul together.,La soupe de poulet vous réchauffera l'âme aussi bien que le corps.,Hühnersuppe hält Körper und Geist zusammen.,,La sopa de pollo puede mantener el cuerpo y el alma unidos...
 canStock,items,Food,KgNone,Can of Stock,Conserve de bouillon,Dose Fond,,Lata de caldo
 canStockDesc,items,Food,KgNone,Stock up on stock or you could eat it now.,Conservez votre conserve de bouillon ou dégustez-la dès maintenant.,Stell dir Lebensmittel-Fonds aus Fond zusammen. Du könntest ihn aber auch gleich essen.,,Puedes tomártelo ahora o guardarlo para más tarde.
 canTuna,items,Food,KgNone,Can of Tuna,Conserve de thon,Dose Thunfisch,,Lata de atún
